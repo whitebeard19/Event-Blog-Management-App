@@ -1,0 +1,10 @@
+/* Add your custom styles here */
+.club-logo {
+    max-width: 200px;
+    height: auto;
+}
+
+.event-image {
+    max-width: 100%;
+    height: auto;
+}
