@@ -4,3 +4,5 @@ db.sqlite3
 .gitignore
 core/settings.py
 .env
+*.pyc
+__pycache__/
